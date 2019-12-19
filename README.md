@@ -22,7 +22,7 @@ While creating this example I stumbled upon an incompatibility between Flask's a
 
 - Visual Studio Code (Insiders channel is not required anymore at this time of writing)
 
-- [Remote Development Extension]([https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack]()
+- [Remote Development Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 
 - Docker CE
 
